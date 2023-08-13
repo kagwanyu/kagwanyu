@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kagwanyu
-- 👀 I’m interested in learning programming and becoming a fullstack developer.
+- 👀 I’m a frontend developer..
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development, web scrapping ,python and javascript projects. 
 - 📫 How to reach me email kagwanyu1@gmail.com whats app 0714045025
